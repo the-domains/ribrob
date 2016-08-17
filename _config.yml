@@ -1,0 +1,28 @@
+name: Ribrob
+favicon: null
+layout_spectrum: 0.41237422032281756
+typography_spectrum: 0.18538644490763545
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.49733141995966434
+  lightness: 0.9057087360415608
+  saturation: 0.9201436887960881
+  rhythmicContrast: 0.2922034915536642
+purpose: []
